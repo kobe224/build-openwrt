@@ -265,19 +265,5 @@ config server
 	option server_group 'guowai'
 	option blacklist_ip '0'
 
-config server
-	option enabled '1'
-	option type 'udp'
-	option name '长沙联通'
-	option ip '58.20.127.170'
-	option server_group 'china'
-	option blacklist_ip '0'
 
-config server
-	option enabled '1'
-	option type 'udp'
-	option name '长沙联通2'
-	option ip '58.20.127.238'
-	option server_group 'china'
-	option blacklist_ip '0'
 
